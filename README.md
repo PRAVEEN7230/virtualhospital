@@ -1,0 +1,2 @@
+# virtualhospital
+“The virtual Hospital” is an end user support and online consultation project that allows users to get instant guidance on their health issues. The system allows users to search for doctor’s help at any point of time. The user can talk about their illness and get the required medicine’s prescriptions by consulting the doctor online. Doctors can handle emergency situations by providing primary help, till the patient is taken to the hospital. This System can be used by all those who need help in an emergency.
