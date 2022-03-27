@@ -1,6 +1,7 @@
 <?php
 session_start();// confirms the appointment for the patient and displays doctor details 
 ?>
+
 <?php
   $servername = "localhost";
   $username = "root";
